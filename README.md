@@ -47,7 +47,7 @@ This repository contains a recommendation system that leverages both collaborati
 
 ### 1. Download Required Files
 1. Download all the models from this repository
-2. Download the datasets & embeddings through this link
+2. Download the datasets & embeddings through the link
 
 ### 2. Adjust File Paths
 Update the following variables with the correct file paths:
